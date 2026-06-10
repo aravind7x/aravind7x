@@ -1,15 +1,20 @@
+<h1 align="center">Aravind</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Python+Developer;Building+Projects;Learning+Every+Day" />
+Aspiring AI Engineer • Python Developer
 </p>
 
-# Hi, I'm Aravind
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+AI+Engineer;Python+Developer;Building+Projects;Learning+Every+Day" />
+</p>
 
-Aspiring AI Engineer | Python Developer
+## About Me
 
-## Currently Learning
-- Python
+- Learning Python and AI Engineering
+- Building real-world projects
+- Exploring Flask and Machine Learning
+- Growing through hands-on development
 - Git & GitHub
-- AI & Machine Learning
 
 ## Projects
 - ATM Project
@@ -46,8 +51,39 @@ Become an AI Engineer and build real-world projects.
 - Flask
 - AI & Machine Learning
 
+## Tech Stack
 
-## GitHub Stats
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,flask" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravind7x&show_icons=true&theme=tokyonight)
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aravind7x&show_icons=true&theme=transparent" />
+  <img height="170" src="https://streak-stats.demolab.com?user=aravind7x&theme=transparent" />
+</p>
+
+
+## Current Focus
+
+- Python Development
+- Object-Oriented Programming
+- Flask
+- AI Engineering
+
+## Featured Projects
+
+🏦 ATM Management System
+
+📚 Student Record Manager
+
+🔐 Password Generator
+
+🤖 AI Learning Journey
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aravind7x&style=flat-square" />
+</p>
 
