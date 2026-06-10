@@ -14,7 +14,21 @@ Aspiring AI Engineer | Python Developer
 ## Projects
 - ATM Project
 - Python
-- 
+
+## Featured Projects
+
+- ATM Management System
+- Bill Generator 
+- AI Learning Journey
+- Student Record Manager
+- Library Management System
+- Password Generator
+- Expense Tracker
+- Number Guessing Game
+- Quiz Application
+- Contact Book
+- To-Do List Manager
+- Calculator Pro
 
 ## Goal
 Become an AI Engineer and build real-world projects.
