@@ -24,6 +24,15 @@ Become an AI Engineer and build real-world projects.
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,ai" />
 </p>
 
+## Currently Learning
+
+- Python Programming
+- Object-Oriented Programming (OOP)
+- Git & GitHub
+- Flask
+- AI & Machine Learning
+
+
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravind7x&show_icons=true&theme=tokyonight)
