@@ -21,8 +21,8 @@ Become an AI Engineer and build real-world projects.
 
 ## GitHub Stats
 
-![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravind7x&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravind7x&show_icons=true&theme=tokyonight)
 
-## Most Used Languages
+## GitHub Streak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind7x&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=aravind7x&theme=tokyonight)
