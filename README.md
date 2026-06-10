@@ -17,8 +17,16 @@ Aspiring AI Engineer • Python Developer
 - Git & GitHub
 
 ## Projects
-- ATM Project
-- Python
+- Employee Management System
+Banking System Simulator
+Inventory Management System
+Weather Forecast App
+URL Shortener
+File Organizer
+Personal Finance Tracker
+Habit Tracker
+Chat Application
+Task Automation Scripts
 
 ## Featured Projects
 
