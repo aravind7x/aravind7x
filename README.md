@@ -18,3 +18,7 @@ Aspiring AI Engineer | Python Developer
 
 ## Goal
 Become an AI Engineer and build real-world projects.
+
+## GitHub Stats
+
+![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravind7x&show_icons=true&theme=tokyonight)
