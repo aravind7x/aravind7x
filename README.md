@@ -25,10 +25,6 @@ Become an AI Engineer and build real-world projects.
 
 ## GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aravind7x&theme=tokyonight)
-
-## GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aravind7x&theme=tokyonight" />
 </p>
