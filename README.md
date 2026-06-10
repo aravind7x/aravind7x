@@ -18,15 +18,15 @@ Aspiring AI Engineer • Python Developer
 
 ## Projects
 - Employee Management System
-Banking System Simulator
-Inventory Management System
-Weather Forecast App
-URL Shortener
-File Organizer
-Personal Finance Tracker
-Habit Tracker
-Chat Application
-Task Automation Scripts
+- Banking System Simulator
+- Inventory Management System
+- Weather Forecast App
+- URL Shortener
+- File Organizer
+- Personal Finance Tracker
+- Habit Tracker
+- Chat Application
+- Task Automation Scripts
 
 ## Featured Projects
 
