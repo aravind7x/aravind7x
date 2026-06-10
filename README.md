@@ -9,7 +9,8 @@ Aspiring AI Engineer | Python Developer
 
 ## Projects
 - ATM Project
-- Python Practice
+- Python
+- 
 
 ## Goal
 Become an AI Engineer and build real-world projects.
