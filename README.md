@@ -51,12 +51,6 @@ Become an AI Engineer and build real-world projects.
 - Flask
 - AI & Machine Learning
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,css,flask" />
-</p>
-
 
 ## GitHub Analytics
 
@@ -82,6 +76,7 @@ Become an AI Engineer and build real-world projects.
 🔐 Password Generator
 
 🤖 AI Learning Journey
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aravind7x&style=flat-square" />
