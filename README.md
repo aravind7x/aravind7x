@@ -18,6 +18,11 @@ Aspiring AI Engineer | Python Developer
 
 ## Goal
 Become an AI Engineer and build real-world projects.
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,ai" />
+</p>
 
 ## GitHub Stats
 
