@@ -71,7 +71,7 @@ Become an AI Engineer and build real-world projects.
 ## Current Focus
 
 - Python Development
-- Object-Oriented Programming
+-  Data structures 
 - Flask
 - AI Engineering
 
