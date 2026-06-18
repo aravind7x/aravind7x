@@ -21,27 +21,7 @@ Aspiring AI Engineer • Python Developer
 - Banking System Simulator
 - Inventory Management System
 - Weather Forecast App
-- URL Shortener
-- File Organizer
-- Personal Finance Tracker
-- Habit Tracker
-- Chat Application
-- Task Automation Scripts
 
-## Featured Projects
-
-- ATM Management System
-- Bill Generator 
-- AI Learning Journey
-- Student Record Manager
-- Library Management System
-- Password Generator
-- Expense Tracker
-- Number Guessing Game
-- Quiz Application
-- Contact Book
-- To-Do List Manager
-- Calculator Pro
 
 ## Goal
 Become an AI Engineer and build real-world projects.
