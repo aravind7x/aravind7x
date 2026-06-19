@@ -38,6 +38,8 @@ Become an AI Engineer and build real-world projects.
 - Git & GitHub
 - Flask
 - AI & Machine Learning
+- numpy
+- pandas
 
 
 ## GitHub Analytics
