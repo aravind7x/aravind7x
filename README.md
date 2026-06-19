@@ -28,7 +28,7 @@ Become an AI Engineer and build real-world projects.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,ai" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,html,ai,numpy,pandas" />
 </p>
 
 ## Currently Learning
