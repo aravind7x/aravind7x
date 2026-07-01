@@ -57,6 +57,10 @@ Become an AI Engineer and build real-world projects.
 - Flask
 - AI Engineering
 
+## Completed projects
+- movie recommendation - https://attached-assets--rampavalasaarav.replit.app 
+
+
 ## Featured Projects
 
 🏦 ATM Management System
